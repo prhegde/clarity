@@ -200,7 +200,7 @@ Use search as a secondary item to the right of the header if search is not core 
     </a>
   </div>
   <div class="header-actions">
-    <a href="#" class="nav-icon nav-icon-text">
+    <a href="javascript:void(0)" class="nav-icon nav-icon-text">
       <clr-icon shape="search" style="position: relative; top: 0.8rem; left: auto; transform: none; margin-left: 1rem"></clr-icon>
     </a>
     <div class="dropdown">
