@@ -34,7 +34,7 @@ Include both your application’s name and logo if available. Clicking on the ap
 
 Include top level navigation items. These items should be persistent throughout your experience.
 
-Have a maximum of four items in top-level navigation. For more info, take a look at [Navigation](../foundation/navigation).
+Have a maximum of four items in top-level navigation. For more info, take a look at [Navigation](/foundation/navigation).
 
 If you’re using icons on their own in the header, using tooltips will help users understand what an icon means. Use clear language for top level navigation items. Do not combine icons and text. Only use a combination of text and icons when the provided text gives additional context specific to the user, for example, the user's username.
 
